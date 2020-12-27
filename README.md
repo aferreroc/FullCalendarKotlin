@@ -3,7 +3,8 @@
 https://github.com/aferreroc/FullCalendarKotlin (please star it!)
 
 It is a test to see how to interact with the Kotlin wrapper for React library 
-with the fullcalendar library
+with the fullcalendar library. Call javascript from kotlin and some magic of 'ref' are used
+
 https://github.com/JetBrains/kotlin-wrappers
 https://fullcalendar.io/docs/react
 https://github.com/fullcalendar/fullcalendar-react
